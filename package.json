@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/supipd/node-shm.git"
+    "url": "git://github.com/antixrist/node-shm.git"
   },
   "keywords" : [
 	"shm",
@@ -23,6 +23,6 @@
     "node": ">=0.8.14"
   },
   "bugs": { 
-    "url" : "https://github.com/supipd/node-shm/issues"
+    "url" : "https://github.com/antixrist/node-shm/issues"
   }
 }
