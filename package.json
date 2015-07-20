@@ -16,7 +16,6 @@
 	"ipc"
   ],
   "scripts": {
-    "install": "node-gyp rebuild",
 	"test" : "node ./test/test.js"
   },
   "license": "MIT",
