@@ -40,7 +40,9 @@ Instalation
 You can install with `npm`:
 
 ``` bash
-$ npm install -g nodejs-shm
+$ npm install -g shm
+$ cd <global npm node_modules path>/shm
+$ node-gyp rebuild
 ```
 
 How to Use
