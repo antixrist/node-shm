@@ -4,10 +4,6 @@
   "description": "simple to use, PHP compatible shared memory for node.js",
   "main": "./build/Release/shm",
   "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/antixrist/node-shm.git"
-  },
   "keywords" : [
 	"shm",
 	"shmop",
