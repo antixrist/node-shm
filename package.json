@@ -1,6 +1,6 @@
 {
   "author": "Jan Supuka <sbmintegral@sbmintegral.sk> (http://www.sbmintegral.sk)",
-  "name": "shm",
+  "name": "node-shm",
   "description": "simple to use, PHP compatible shared memory for node.js",
   "main": "./build/Release/shm",
   "version": "0.1.0",
